@@ -1,8 +1,11 @@
-#slider{
+#slide{
     position: absolute;
     display: flex;
-    width:1875px;
-    height:667px;
+    top: 0px;
+    left: 0px;
+    width: 1875px;
+    height: 667px;
+
 }
 
 .panel{
