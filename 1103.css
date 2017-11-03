@@ -1,4 +1,6 @@
 #slider{
+    position: absolute;
+    display: flex;
     width:1875px;
     height:667px;
 }
@@ -11,8 +13,6 @@
     text-align: center;
     font-size : 100 ;
     color:#000000;
-    position:center;
     line-height: 100%
-
 }
 
