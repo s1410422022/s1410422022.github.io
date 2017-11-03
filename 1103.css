@@ -1,0 +1,15 @@
+#panel{
+    display: inline-block; 
+    width:1875;
+    height:667;
+}
+
+.one{
+    display: inline-block; 
+    width:375;
+    height:667;
+    background: #FFFFFF;
+    text-align: center;
+    color:#000000;
+    position:center;
+}
