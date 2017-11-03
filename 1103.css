@@ -9,6 +9,7 @@
     height:667px;
     background: #FFFFFF;
     text-align: center;
+    font-size : 100 ;
     color:#000000;
     position:center;
 }
@@ -18,6 +19,7 @@
     height:667px;
     background: #FFFFFF;
     text-align: center;
+    font-size : 100 ;
     color:#000000;
     position:center;
 }
@@ -27,7 +29,7 @@
     height:667px;
     background: #FFFFFF;
     text-align: center;
-    text-justify: 50%;
+    font-size : 100 ;
     color:#000000;
     position:center;
 }
@@ -37,6 +39,7 @@
     height:667px;
     background: #FFFFFF;
     text-align: center;
+    font-size : 100 ;
     color:#000000;
     position:center;
 }
@@ -45,6 +48,7 @@
     width:50%;
     height:667px;
     background: #FFFFFF;
+    font-size : 100 ;
     text-align: center;
     color:#000000;
     position:center;
