@@ -1,55 +1,18 @@
-#panel{
+#slider{
     width:1875px;
     height:667px;
 }
 
-.one{
+.panel{
     display: inline-block; 
-    width:50%;
-    height:667px;
+    width:375;
+    height:100%;
     background: #FFFFFF;
     text-align: center;
     font-size : 100 ;
     color:#000000;
     position:center;
+    line-height: 100%
+
 }
-.two{
-    display: inline-block; 
-    width:50%;
-    height:667px;
-    background: #FFFFFF;
-    text-align: center;
-    font-size : 100 ;
-    color:#000000;
-    position:center;
-}
-.three{
-    display: inline-block; 
-    width:50%;
-    height:667px;
-    background: #FFFFFF;
-    text-align: center;
-    font-size : 100 ;
-    color:#000000;
-    position:center;
-}
-.fore{
-    display: inline-block; 
-    width:50%;
-    height:667px;
-    background: #FFFFFF;
-    text-align: center;
-    font-size : 100 ;
-    color:#000000;
-    position:center;
-}
-.five{
-    display: inline-block; 
-    width:50%;
-    height:667px;
-    background: #FFFFFF;
-    font-size : 100 ;
-    text-align: center;
-    color:#000000;
-    position:center;
-}
+
