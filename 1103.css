@@ -1,13 +1,13 @@
 #panel{
     display: inline-block; 
-    width:1875;
-    height:667;
+    width:1875px;
+    height:667px;
 }
 
 .one{
     display: inline-block; 
-    width:375;
-    height:667;
+    width:375px;
+    height:667px;
     background: #FFFFFF;
     text-align: center;
     color:#000000;
@@ -15,8 +15,8 @@
 }
 .two{
     display: inline-block; 
-    width:375;
-    height:667;
+    width:375px;
+    height:667px;
     background: #FFFFFF;
     text-align: center;
     color:#000000;
@@ -24,8 +24,8 @@
 }
 .three{
     display: inline-block; 
-    width:375;
-    height:667;
+    width:375px;
+    height:667px;
     background: #FFFFFF;
     text-align: center;
     color:#000000;
@@ -33,8 +33,8 @@
 }
 .fore{
     display: inline-block; 
-    width:375;
-    height:667;
+    width:375px;
+    height:667px;
     background: #FFFFFF;
     text-align: center;
     color:#000000;
@@ -42,8 +42,8 @@
 }
 .five{
     display: inline-block; 
-    width:375;
-    height:667;
+    width:375px;
+    height:667px;
     background: #FFFFFF;
     text-align: center;
     color:#000000;
